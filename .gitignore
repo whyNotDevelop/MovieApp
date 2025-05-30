@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.user
+*.cache
+
+# Dependencies
+packages/
+.nuget/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Database files
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Misc
+.DS_Store
+*.log
